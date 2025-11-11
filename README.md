@@ -54,8 +54,8 @@ git clone https://github.com/ShameelShajaad/I-Hungry-Burger-Shop.git
 
 2. Compile the Java file:
 
-javac iHungryBurgerShop.java
+javac IHungryBurgerShop.java
 
 3. Run the program:
 
-java iHungryBurgerShop
+java IHungryBurgerShop
