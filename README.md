@@ -1,5 +1,12 @@
-# iHungry Burger Shop 🍔
+# I Hungry Burger Shop 🍔
 
+**Author:** Shameel Shajaad  
+**Module:** Programming Fundamentals (ICET Institute)  
+**Language:** Java  
+
+---
+
+## 🧾 Description
 **A Java console-based burger shop order system** developed for the Programming Fundamentals module at ICET Institute.  
 
 This system allows you to:
@@ -43,7 +50,7 @@ This system allows you to:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/iHungry-Burger-Shop.git
+git clone https://github.com/ShameelShajaad/I-Hungry-Burger-Shop.git
 
 2. Compile the Java file:
 
